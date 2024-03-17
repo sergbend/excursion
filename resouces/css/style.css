@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+.discover{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+.download{
+    font-size: 16px;
+    color: aquamarine;
+}
+h2{
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+p{
+    color: grey;
+    font-size: 21px;
+}
+.footer{
+    color: gray;
+    text-align: right;
+    font-size: 16px;
+}
